@@ -1,0 +1,10 @@
+server:
+  port: ${PORT:8082}
+
+interconnect17:
+  food:
+    type: food
+    menu:
+      - Pizza
+      - Chicken
+      - Salmon
